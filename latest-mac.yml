@@ -1,12 +1,12 @@
-version: 1.0.8
+version: 1.0.9
 files:
-  - url: tactic-battle-1.0.8-mac.zip
-    sha512: T6imAo0bNumi+1OcE3FFTZHHWQtSgTKeOcalygCWYZvvSv3Ltxnn82gSKxPLEltnSYuMm8DGTRe7vSBJ7ESyvw==
-    size: 81971494
-    blockMapSize: 86915
-  - url: tactic-battle-1.0.8.dmg
-    sha512: n57VRXvCurR7hAWutFW2hIzSrEXZtx7opM2Evp0ik438eYkWNJbUGyrPMfZDcBreBRmBxo3CQ5r/RiBXPlEgQg==
-    size: 84012307
-path: tactic-battle-1.0.8-mac.zip
-sha512: T6imAo0bNumi+1OcE3FFTZHHWQtSgTKeOcalygCWYZvvSv3Ltxnn82gSKxPLEltnSYuMm8DGTRe7vSBJ7ESyvw==
-releaseDate: '2019-11-03T05:17:33.610Z'
+  - url: tactic-battle-1.0.9-mac.zip
+    sha512: ECZJLEQOV5EEGntGUNXXgDSBXce/ftJgeRJQl+UAX5EHdX5SK7y5GFww38GkDjkPSdMKmZwwPmWpG3ypSJUBOA==
+    size: 81972144
+    blockMapSize: 87026
+  - url: tactic-battle-1.0.9.dmg
+    sha512: Shz44mR7ZlwaTZnm8XYuaundfFlg13cRtyumkOU+uoCmj41IkdYHSJSmBrgQCvwUG3GjUfkLHKCwTYfLWKousA==
+    size: 84016484
+path: tactic-battle-1.0.9-mac.zip
+sha512: ECZJLEQOV5EEGntGUNXXgDSBXce/ftJgeRJQl+UAX5EHdX5SK7y5GFww38GkDjkPSdMKmZwwPmWpG3ypSJUBOA==
+releaseDate: '2019-11-03T15:17:39.771Z'

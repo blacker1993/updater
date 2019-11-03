@@ -1,8 +1,8 @@
-version: 1.0.8
+version: 1.0.9
 files:
-  - url: tactic-battle-Setup-1.0.8.exe
-    sha512: DtQZAejAwjLLSDCIjHhdm5VxTMMBeSqAIkInAPQO4cBx/TVrT677uj4OQv3YEel7GrPEpupTD6rDbRZuXmFScQ==
-    size: 68854611
-path: tactic-battle-Setup-1.0.8.exe
-sha512: DtQZAejAwjLLSDCIjHhdm5VxTMMBeSqAIkInAPQO4cBx/TVrT677uj4OQv3YEel7GrPEpupTD6rDbRZuXmFScQ==
-releaseDate: '2019-11-03T05:18:25.525Z'
+  - url: tactic-battle-Setup-1.0.9.exe
+    sha512: NuRaYnxlEtpADl4NVGjBzg+KSm4kvGoKy+/I/iusvVHm4rRT6K7OSJcPRdVilpy6GWL0zqlFrHOrBEAsEQCN1Q==
+    size: 68854598
+path: tactic-battle-Setup-1.0.9.exe
+sha512: NuRaYnxlEtpADl4NVGjBzg+KSm4kvGoKy+/I/iusvVHm4rRT6K7OSJcPRdVilpy6GWL0zqlFrHOrBEAsEQCN1Q==
+releaseDate: '2019-11-03T15:18:23.858Z'
