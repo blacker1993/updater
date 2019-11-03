@@ -1,0 +1,12 @@
+version: 1.0.0
+files:
+  - url: tactic-battle-1.0.0-mac.zip
+    sha512: GEHGRvhEnScpSjcHqBx06hkrk4FKRfwdiL1WgdzjCi+hYBQyhVqfy7I3H/mbTuzRsVVzv5tOrF+wZKvGydREHA==
+    size: 81972586
+    blockMapSize: 86947
+  - url: tactic-battle-1.0.0.dmg
+    sha512: 2C/1/kiHh75n7KCgsaHV2CXldFYzCkN0XXFzATlBNgaWW1dhb2WRk3i7J+4I9pyapNAztjXDQZpjLDDstdlNUQ==
+    size: 84016787
+path: tactic-battle-1.0.0-mac.zip
+sha512: GEHGRvhEnScpSjcHqBx06hkrk4FKRfwdiL1WgdzjCi+hYBQyhVqfy7I3H/mbTuzRsVVzv5tOrF+wZKvGydREHA==
+releaseDate: '2019-11-03T03:38:11.588Z'

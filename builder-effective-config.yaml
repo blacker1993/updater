@@ -1,0 +1,26 @@
+directories:
+  output: dist
+  buildResources: build
+publish:
+  - provider: github
+    owner: blacker1993
+    repo: updater
+mac:
+  appId: com.github.blacker1993.updater
+  icon: public/icon.icns
+  target:
+    - zip
+    - dmg
+win:
+  appId: com.github.blacker1993.updater
+  icon: public/icon.ico
+  target:
+    - nsis
+linux:
+  appId: com.github.blacker1993.updater
+  icon: public/icon.png
+  target:
+    - target: deb
+      arch:
+        - x64
+electronVersion: 4.0.0
