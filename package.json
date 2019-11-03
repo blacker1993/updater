@@ -3,7 +3,7 @@
   "productName": "tactic-battle",
   "author": "Erik Kadar <erikkkadar93@gmail.com>",
   "license": "ISC",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Engine for tactic battle card game",
   "main": "index.js",
   "homepage": "https://github.com/blacker1993/updater#readme",
