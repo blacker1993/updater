@@ -1,0 +1,48 @@
+{
+  "name": "tactic-battle-electron",
+  "productName": "tactic-battle",
+  "author": "Erik Kadar <erikkkadar93@gmail.com>",
+  "license": "ISC",
+  "version": "1.0.2",
+  "description": "Engine for tactic battle card game",
+  "main": "index.js",
+  "homepage": "https://github.com/blacker1993/updater#readme",
+  "scripts": {
+  },
+  "build": {
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "blacker1993",
+        "repo": "updater"
+      }
+    ],
+    "mac": {
+      "appId": "com.github.blacker1993.updater",
+      "icon": "public/icon.icns",
+      "target": [
+        "zip",
+        "dmg"
+      ]
+    },
+    "win": {
+      "appId": "com.github.blacker1993.updater",
+      "icon": "public/icon.ico",
+      "target": [
+        "nsis"
+      ]
+    },
+    "linux": {
+      "appId": "com.github.blacker1993.updater",
+      "icon": "public/icon.png",
+      "target": [
+        {
+          "target": "deb",
+          "arch": [
+            "x64"
+          ]
+        }
+      ]
+    }
+  }
+}
