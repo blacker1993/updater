@@ -15,7 +15,9 @@ win:
   appId: com.github.blacker1993.updater
   icon: public/icon.ico
   target:
-    - nsis
+    - target: nsis
+      arch:
+        - x64
 linux:
   appId: com.github.blacker1993.updater
   icon: public/icon.png
